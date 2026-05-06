@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='2560' height='512' viewBox='0 0 2560 512'>
+  <rect width='2560' height='512' fill='#f3f6fb'/>
+  <style>
+    .body{fill:#2f6fed}.shirt{fill:#ffffff}.head{fill:#ffd8b1}.hair{fill:#2f2f2f}.tie{fill:#d7263d}.tool{fill:#5a6572}.outline{stroke:#1f2630;stroke-width:4}
+  </style>
+  <g transform='translate(0,0)'>
+    <rect x='0' y='0' width='512' height='512' fill='#e8f0ff'/><text x='20' y='40' font-size='30'>WALK</text>
+    <g transform='translate(180,120)' class='outline'>
+      <circle class='head' cx='76' cy='48' r='40'/><path class='hair' d='M36,44 q40,-44 80,0 v-8 q-40,-34 -80,0z'/>
+      <rect class='shirt' x='44' y='92' width='64' height='46' rx='8'/><polygon class='tie' points='76,94 88,124 76,140 64,124'/>
+      <rect class='body' x='36' y='138' width='80' height='110' rx='12'/><rect class='body' x='0' y='146' width='40' height='20' rx='10'/><rect class='body' x='112' y='162' width='40' height='20' rx='10'/>
+      <rect fill='#1c2c4c' x='42' y='246' width='28' height='90' rx='10' transform='rotate(8 56 290)'/>
+      <rect fill='#1c2c4c' x='82' y='246' width='28' height='90' rx='10' transform='rotate(-16 96 290)'/>
+    </g>
+  </g>
+  <g transform='translate(512,0)'><rect width='512' height='512' fill='#fff3e8'/><text x='20' y='40' font-size='30'>BLOCK</text><g transform='translate(180,120)' class='outline'><circle class='head' cx='76' cy='48' r='40'/><rect class='shirt' x='44' y='92' width='64' height='46' rx='8'/><rect class='body' x='36' y='138' width='80' height='110' rx='12'/><rect class='body' x='-8' y='164' width='44' height='20' rx='10'/><rect class='body' x='116' y='164' width='44' height='20' rx='10'/><rect fill='#1c2c4c' x='42' y='246' width='28' height='90' rx='10'/><rect fill='#1c2c4c' x='82' y='246' width='28' height='90' rx='10'/></g></g>
+  <g transform='translate(1024,0)'><rect width='512' height='512' fill='#ecfff3'/><text x='20' y='40' font-size='30'>BUILD</text><g transform='translate(160,110)' class='outline'><circle class='head' cx='96' cy='58' r='40'/><rect class='shirt' x='64' y='102' width='64' height='46' rx='8'/><rect class='body' x='56' y='148' width='80' height='110' rx='12'/><rect class='body' x='128' y='168' width='44' height='20' rx='10'/><rect class='tool' x='170' y='162' width='90' height='24' rx='8'/><rect class='tool' x='216' y='146' width='30' height='56' rx='8'/><rect fill='#1c2c4c' x='62' y='256' width='28' height='90' rx='10' transform='rotate(12 76 300)'/><rect fill='#1c2c4c' x='102' y='256' width='28' height='90' rx='10'/></g></g>
+  <g transform='translate(1536,0)'><rect width='512' height='512' fill='#f3ecff'/><text x='20' y='40' font-size='30'>DIG</text><g transform='translate(170,110)' class='outline'><circle class='head' cx='86' cy='58' r='40'/><rect class='shirt' x='54' y='102' width='64' height='46' rx='8'/><rect class='body' x='46' y='148' width='80' height='110' rx='12'/><rect class='body' x='124' y='166' width='44' height='20' rx='10'/><rect class='tool' x='164' y='188' width='78' height='16' rx='8' transform='rotate(35 164 188)'/><rect fill='#1c2c4c' x='52' y='256' width='28' height='90' rx='10' transform='rotate(16 66 300)'/><rect fill='#1c2c4c' x='92' y='256' width='28' height='90' rx='10' transform='rotate(-12 106 300)'/></g></g>
+  <g transform='translate(2048,0)'><rect width='512' height='512' fill='#e8fbff'/><text x='20' y='40' font-size='30'>UMBRELLA</text><g transform='translate(160,90)' class='outline'><path d='M96 40 q90 10 140 70 h-280 q50-60 140-70z' fill='#ff6b6b'/><rect class='tool' x='92' y='40' width='8' height='180' rx='4'/><circle class='head' cx='96' cy='154' r='40' class='head'/><rect class='shirt' x='64' y='198' width='64' height='46' rx='8'/><rect class='body' x='56' y='244' width='80' height='92' rx='12'/><rect fill='#1c2c4c' x='62' y='334' width='28' height='80' rx='10'/><rect fill='#1c2c4c' x='102' y='334' width='28' height='80' rx='10'/></g></g>
+</svg>
