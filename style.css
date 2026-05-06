@@ -1,0 +1,7 @@
+:root { color-scheme: light; }
+body { margin: 0; font-family: Inter, Arial, sans-serif; background: linear-gradient(#edf4ff, #d9e9ff); color: #1d2a3a; }
+header { padding: 0.8rem 1rem; background: #ffffffd9; backdrop-filter: blur(4px); box-shadow: 0 2px 8px #0002; }
+h1 { margin: 0 0 0.3rem; font-size: 1.2rem; }
+p { margin: 0; font-size: 0.95rem; }
+main { display: grid; place-items: center; padding: 1rem; }
+canvas { border: 2px solid #213247; border-radius: 8px; width: min(95vw, 1280px); height: auto; box-shadow: 0 8px 24px #0003; background: #a9cdf2; }

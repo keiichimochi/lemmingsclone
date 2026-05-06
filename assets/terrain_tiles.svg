@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1024' height='256' viewBox='0 0 1024 256'>
+  <rect width='1024' height='256' fill='#dce8f7'/>
+  <g>
+    <rect x='0' y='0' width='256' height='256' fill='#c79a6b'/>
+    <circle cx='60' cy='70' r='18' fill='#b88654'/><circle cx='180' cy='120' r='22' fill='#ad7747'/>
+    <text x='14' y='244' font-size='24'>Destructible</text>
+  </g>
+  <g transform='translate(256,0)'>
+    <rect width='256' height='256' fill='#8e9aa6'/><path d='M0 40h256M0 90h256M0 140h256M0 190h256' stroke='#6b7680' stroke-width='6'/><path d='M40 0v256M100 0v256M160 0v256M220 0v256' stroke='#6b7680' stroke-width='6'/><text x='14' y='244' font-size='24'>Steel</text>
+  </g>
+  <g transform='translate(512,0)'><rect width='256' height='256' fill='#76b77c'/><circle cx='80' cy='90' r='20' fill='#6aa36f'/><circle cx='170' cy='140' r='26' fill='#669f6a'/><text x='14' y='244' font-size='24'>Grass</text></g>
+  <g transform='translate(768,0)'><rect width='256' height='256' fill='#6a7480'/><path d='M0 160h256' stroke='#4c535c' stroke-width='8'/><path d='M120 0v256' stroke='#4c535c' stroke-width='8'/><text x='14' y='244' font-size='24'>Metal Beam</text></g>
+</svg>
